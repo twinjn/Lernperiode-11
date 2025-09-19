@@ -8,10 +8,12 @@ In dieser Lernperiode konzentriere ich mich allgemein auf Module, da ich an der 
 **Arbeitspakete**
 
 ***Projekte für Bewerbung***
+
 Erstellung und Optimierung kleiner Projekte (z. B. Web-Apps, Portfolio-Erweiterungen, Automatisierungen)
 Saubere Dokumentation und Präsentation (README, Screenshots, ggf. Live-Demo)
 
 ***Integration in Bewerbungsunterlagen und Website***
+
 Module (355 & 324)
 355 Mobile Applikationen: Konzeption, kleine App-Features, Testing
 324 DevOps: CI/CD-Pipelines, Containerisierung, Deployment-Übungen
