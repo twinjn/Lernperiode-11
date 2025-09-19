@@ -25,4 +25,5 @@ Testen von KI-APIs (zbs OpenAI oder HuggingFace) für Bewerbungsprojekte
 n8n Projekte erstellen, testen und wöchentlich steigern
 
 
+
 **22.08.2025**
