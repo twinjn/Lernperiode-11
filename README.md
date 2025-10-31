@@ -9,8 +9,8 @@ In dieser Lernperiode konzentriere ich mich allgemein auf Module, da ich an der 
 
 ***Projekte für Bewerbung***
 
-Erstellung und Optimierung kleiner Projekte (z. B. Web-Apps, Portfolio-Erweiterungen, Automatisierungen)
-Saubere Dokumentation und Präsentation (README, Screenshots, ggf. Live-Demo)
+Erstellung und Optimierung kleiner Projekte (Web-Apps, Portfolio-Erweiterungen, Automatisierungen)
+Saubere Dokumentation und Präsentation (README, Screenshots, Live-Demo)
 
 ***Integration in Bewerbungsunterlagen und Website***
 
@@ -40,7 +40,7 @@ Ich habe gemerkt, dass es hilfreich ist, Bewerbungen direkt mit Projekten zu kom
 - [x] Da die Webseite noch nicht funktioniert, versuche ich es komplett zu löschen und neu anzufangen.
 
 # Reflexion:
-
+Ich habe gemerkt, dass Bewerbungen echt Zeit brauchen und man dafuer gut vorbereitet sein muss. Das neue Projekt im Portfolio hilft mir, meine Skills sichtbar zu machen und zu zeigen, dass ich wirklich etwas umsetzen kann.
 
 **05.09.2025**
 - [x] Ein App oder Webseite, um Vokabeln zu üben. Mit Karteikarten-System und Quiz-Funktion. Speicherung im Local Storage oder kleiner Datenbank.
@@ -64,3 +64,12 @@ Die Vokabel-App hat mir gezeigt, wie sinnvoll kleine Lernprojekte sind praktisch
 
 # Reflexion:
 Ich konnte meine API-Kenntnisse vertiefen und gleich zwei spannende Projekte umsetzen. Die Kombination aus Bewerbungen und praktischen Projekten zeigt mir, dass Firmen konkrete Beweise meiner Skills sehen wollen. Besonders die Fussball-API-Seite war motivierend, weil sie direkt nützlich wirkt. Gleichzeitig habe ich gelernt, dass ich mich besser auf ein Projekt konzentrieren sollte, um es sauber fertigzustellen.
+
+**26.09.2025**
+
+- [x] Alle offenen Bewerbungen fertigstellen und abschicken (mind. 3 Bewerbungen), da ich am 28. September nach England fliege und somit kaum Zeit habe, Bewerbungen zu schreiben.
+- [x] Ich baue eine Webseite in dem man schauen kann ob ein Zimmer frei oder besetzt ist an der Kanti Baden. Dies mache ich mit einer API.
+
+# Reflexion:
+
+Ich habe gemerkt, wie wichtig es war, die Bewerbungen rechtzeitig abzuschliessen bevor ich nach England fliege. Jetzt habe ich den Kopf frei und muss mich dort nicht mit Bewerbungen stressen. Die Raumverfuegbarkeit Webseite fuer die Kanti Baden war auch eine gute Idee, weil es praktisch ist und zeigt, dass ich APIs anwenden kann.
